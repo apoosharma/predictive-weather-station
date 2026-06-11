@@ -170,7 +170,7 @@ Predicted next temp: 29.12°C
 
 ## 👩‍💻 Author
 
-**Apoorva R R**
+**Apoorva R**
 B.Tech ECE — VIT Vellore (2024–2028)
 
 [LinkedIn](https://www.linkedin.com/in/apoorva-rr) | [GitHub](https://github.com/apoosharma)
